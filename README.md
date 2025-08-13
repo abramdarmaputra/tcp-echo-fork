@@ -60,6 +60,4 @@ gcc client.c -o client
 
 ## 📝 Lisensi
 
-```
 Proyek ini dirilis di bawah lisensi **MIT**.
-```
